@@ -7,5 +7,5 @@ jobs:
        - name: greeting
          run: echo "hello good morning"
        - name: goodafternoon
-         run: "gooafternoon"
+         run: echo "gooafternoon"
       
